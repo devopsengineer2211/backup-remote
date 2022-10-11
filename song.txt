@@ -7,6 +7,3 @@ eleven,twelve,
 17,18
 edited
 
-added new
-
-added another
